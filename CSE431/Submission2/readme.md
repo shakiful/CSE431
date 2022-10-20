@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/107_qI1IVW9L88AXKFfaiYk7DeEem37VVLLY8OtoJiY0/edit?usp=sharing
 
 Paper title:
 Meta Learning based Semi-supervised and Unsupervised Sense Annotation on multilingual data
