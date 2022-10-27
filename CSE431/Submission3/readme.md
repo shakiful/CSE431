@@ -14,6 +14,6 @@ chapter 11: Transfer Learning with Pretrained Language Models and Contextual Emb
 
 Group NO: 05
 
-(18201145)Nafisa Nawer
+(18201145) Nafisa Nawer
 
-(18201198)Md.Shakiful Islam Khan
+(18201198) Md.Shakiful Islam Khan
