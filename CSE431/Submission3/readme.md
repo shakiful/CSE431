@@ -11,8 +11,8 @@ https://web.stanford.edu/~jurafsky/slp3/
 selected chapter for review:
 chapter 11: Transfer Learning with Pretrained Language Models and Contextual Embeddings
 
-Submitter
-Group: 05
+
+Group NO: 05
 
 ID              Name
 18201145        Nafisa Nawer
