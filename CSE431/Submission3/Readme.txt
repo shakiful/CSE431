@@ -3,7 +3,7 @@ https://drive.google.com/file/d/1Nd3wYPpi1UQzKfZc9UautlfrxWtlGT8Y/view?usp=shari
 
 
 unlisted youtube video:
-
+https://youtu.be/vlrEoPBZ4Lg
 
 link to the book: 
 https://web.stanford.edu/~jurafsky/slp3/
