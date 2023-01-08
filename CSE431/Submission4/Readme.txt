@@ -3,6 +3,7 @@ https://edas.info/
 
 Paper title:Transformation of Visual Information Into Bangla Textual Representation.
 
+Overleaf: https://www.overleaf.com/read/thcjcbxfxxzq
 
 Paper submission date (to workshop/conference):
 5th January 2023
