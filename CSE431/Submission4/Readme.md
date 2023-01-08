@@ -17,10 +17,8 @@ IEEE CCWC 2023
 Conference URL:
 https://ieee-ccwc.org/
 
-Group Number:
-2
+Group NO: 05
 
-Group Members:
+(18201145) Nafisa Nawer
 
-18201145 Nafisa Nawer
-18201198 Md.Shakiful Islam khan
+(18201198) Md.Shakiful Islam Khan
